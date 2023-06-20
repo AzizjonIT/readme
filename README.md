@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azizjon</h1>
 <h3 align="center">I`m A Front-End Developer From Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizjonit&label=Profile%20views&color=0e75b6&style=flat" alt="azizjonit" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/721e303ab0d90be24bd195a9da93b7044db963c4e2ded4a7fc516e353779e976/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323434323131352f73637265656e73686f74732f383639393439302f6d656469612f34386262646132373836383363373837396265626435376630653266393237312e676966" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizjonit" alt="azizjonit" /></a> </p>
 
